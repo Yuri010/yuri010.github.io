@@ -1,4 +1,4 @@
-# Yuri010
+# About
 Welcome to this hot mess of a site written in Markdown!
 Links below will guide you to the main pages, instead of this weird index, thingy, idk.
 
