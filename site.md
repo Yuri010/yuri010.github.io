@@ -7,4 +7,4 @@ Links below will guide you to the main pages, instead of this weird index, thing
 [Devices](https://yuri010.github.io/devices)[^1]
 [Blog- thingy](https://yuri010.github.io/posts)[^1]
 
-[^1] Soon™
+[^1]: Soon™
