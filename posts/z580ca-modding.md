@@ -42,4 +42,4 @@ The post explains what their script will do and how to use it:
 Big shoutout to them! Honestly great work!
 
 # Great! But what can you do with it?
-That, will be explained in a following article :)
+That, will be explained in [this](https://yuri010.github.io/posts/android-modding) post :)
