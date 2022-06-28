@@ -1,3 +1,6 @@
+<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
+ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
+
 # (28/06/2022) First!!
 Hello and welcome! This will be a place where I might (or maybe not, we'll see about that) be posting some guides, repository related things, and all that kinds of stuff.
 
