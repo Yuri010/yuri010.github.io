@@ -9,7 +9,7 @@ I am also admin / half-owner of a [Dutch Tech and Hack server](https://disboard.
 
 Furthermore, I also just enjoy playing games, listening to music **but also making music :)**[^3]
 
-For what devices I use, you can look [here](https://yuri010.github.com/devices).
+For what devices I use, you can look [here](https://yuri010.github.io/devices).
 
 ### Honourable mentions
 [^1]: <sub> not the anime / manga name... [fyi](https://en.wikipedia.org/wiki/Yury). </sub>
