@@ -7,5 +7,7 @@ Furthermore, I also just play games :)
 
 For what devices I use, you can look [here](https://yuri010.github.com/devices).
 
-[^1]: not the anime / manga stuff, just look [here](https://en.wikipedia.org/wiki/Yury).
+### ­
+
+[^1]: not the anime / manga stuff, just look [here](https://en.wikipedia.org/wiki/Yury).</sub></sup>
 [^2]: Interested or do you need help? Maybe [this](https://disboard.org/server/770265840834314283) Discord is something for you!
