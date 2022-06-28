@@ -1,3 +1,6 @@
+<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
+ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
+
 # Devices
 On this page, I will just have a list with what devices I have and use and their specs :)[^1]
 
