@@ -11,7 +11,7 @@ Furthermore, I also just enjoy playing games, listening to music **but also maki
 
 For what devices I use, you can look [here](https://yuri010.github.com/devices).
 
-### ­
+### Honourable mentions
 [^1]: <sub> not the anime / manga name... [fyi](https://en.wikipedia.org/wiki/Yury). </sub>
 [^2]: <sub> If you're interested in that, or maybe need help? Check out [this](https://disboard.org/server/770265840834314283) server
 [^3]: <sub> for that, check out [my Youtube channel](https://www.youtube.com/channel/UCYETj63f-z9qQv_zS2hB5cw) </sub>
