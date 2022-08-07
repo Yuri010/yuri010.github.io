@@ -1,0 +1,10 @@
+- name: Index
+  link: /main
+- name: About
+  link: /about
+- name: Repositories
+  link: /posts#repositories
+- name: Blog
+  link: /posts#posts
+- name: Devices
+  link: /devices
