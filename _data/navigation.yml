@@ -1,15 +1,15 @@
 - name: About
   link: /about
 - name: Repositories
-  link: /posts#repositories
+  link: /repos
   dropdown:
   - name: SubDima
-  link: /repos/subdima
+  link: /subdima
   - name: CIR-License
-  link: /repos/cir-license
+  link: /cir-license
   - name: Coding-Snippets
-  link: /repos/coding-snippets
+  link: /coding-snippets
 - name: Blog
-  link: /posts#posts
+  link: /posts
 - name: Devices
   link: /devices
