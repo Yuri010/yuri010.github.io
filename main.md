@@ -1,14 +1,3 @@
----
-layout: page
-title: Main Landing Page
-subtitle: This is the landing page
-hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Call To Action
-show_sidebar: false
-callouts: callouts
----
-
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
