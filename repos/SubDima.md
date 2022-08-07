@@ -1,7 +1,7 @@
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
-# SubDima
+# [SubDima](https://github.com/Yuri010/SubDima)
 SubDima is a harmless(-ish) trojan I made.\
 I sadly lost the source code of SubDima 1.0, so this is the 2.0 based around the same idea but even better :)
 
