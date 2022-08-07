@@ -8,8 +8,8 @@ You can look below on what pages there are to explore on this site.
 ## Pages
 [Index](https://yuri010.github.io/main) (You are here)\
 [About Me](https://yuri010.github.io/about)\
-[Info about my repositories](https://yuri010.github.io/posts#repositories)\
-[Blog- thingy](https://yuri010.github.io/posts#posts)
+[Info about my repositories](https://yuri010.github.io/repos)\
+[Blog- thingy](https://yuri010.github.io/posts)
 
 [Devices I own](https://yuri010.github.io/devices)
 
