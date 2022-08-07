@@ -1,5 +1,3 @@
-- name: Index
-  link: /main
 - name: About
   link: /about
 - name: Repositories
