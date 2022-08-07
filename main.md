@@ -6,10 +6,14 @@ Hey! What are you doing here? Looking for info about me? Then you're in the righ
 You can look below on what pages there are to explore on this site.
 
 ## Pages
-[Main](https://yuri010.github.io/main) (You are here)\
+[Index](https://yuri010.github.io/main) (You are here)\
 [About Me](https://yuri010.github.io/about)\
-[Devices](https://yuri010.github.io/devices)\
-[Blog- thingy](https://yuri010.github.io/posts)
+[Info about my repositories](https://yuri010.github.io/posts#repositories)\
+[Blog- thingy](https://yuri010.github.io/posts#posts)
+
+[Devices I own](https://yuri010.github.io/devices)
+
+
 
 ### ­
 <sub>*By the way, I literally just made this in markdown, so it might not be so high quality, or look so fancy, but it functions :)*</sub>
