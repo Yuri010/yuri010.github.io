@@ -1,6 +1,14 @@
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
+---
+layout: page
+title: Main landing page
+subtitle: This is the landing page of yuri010.github.io
+hero_height: is-large
+show_sidebar: false
+---
+
 # About this site
 Hey! What are you doing here? Looking for info about me? Then you're in the right place.\
 You can look below on what pages there are to explore on this site.
