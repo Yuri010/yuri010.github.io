@@ -1,6 +1,6 @@
 - name: About
   link: /about
-- name: Repos
+- name: Repositories
   link: /repos
   dropdown:
   - name: SubDima
