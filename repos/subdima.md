@@ -10,7 +10,7 @@ Well, when I made it I was just thinking of random names. And as it doesn't dist
 But that can't be a name for a piece of malware! So piece I made it into an anagram: "subdural intimation" and shortened that to "SubDima".\
 Tada! You know have a trojan.
 
-***even though its name is a shortened anagram of "manual distribution", DO NOT DO THIS PLEASE, I AM ALSO NOT RESPONSIBLE FOR ANY DAMAGE IT DOES (https://github.com/Yuri010/CIR-License/blob/main/License.md)***
+***even though its name is a shortened anagram of "manual distribution", DO NOT DO THIS PLEASE, I AM ALSO NOT RESPONSIBLE FOR ANY DAMAGE IT DOES ([License](https://github.com/Yuri010/CIR-License/blob/main/License.md))***
 
 ### About the "trojan"
 It copies itself to the temp folder of the user (%temp% or C:\Users\<user>\Appdata\Local\temp), then runs from there.\
