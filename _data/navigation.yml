@@ -3,12 +3,12 @@
 - name: Repositories
   link: /repos
   dropdown:
-  - name: SubDima
-  link: /subdima
-  - name: CIR-License
-  link: /cir-license
-  - name: Coding-Snippets
-  link: /coding-snippets
+    - name: SubDima
+      link: /repositories/subdima
+    - name: CIR-License
+      link: /repositories/cir-license
+    - name: Coding-Snippets
+      link: /repositories/coding-snippets
 - name: Blog
   link: /posts
 - name: Devices
