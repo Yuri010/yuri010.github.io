@@ -12,7 +12,7 @@ callouts: callouts
 [Index](https://yuri010.github.io/main) (You are here)\
 [About Me](https://yuri010.github.io/about)\
 [Info about my repositories](https://yuri010.github.io/repos)\
-[Blog- thingy](https://yuri010.github.io/posts)
+[Blog- thingy](https://yuri010.github.io/posts/)
 
 [Devices I own](https://yuri010.github.io/devices)
 
