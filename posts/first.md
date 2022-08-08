@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "First!!"
+date:   2022-06-28
+categories: misc
+description: "The first post here!"
+image: 'https://opengraph.githubassets.com/21d531c46f0b698342b925382ee830ea347d3964bc259f523a41185f2f3b3aa7/Yuri010/yuri010.github.io'
+published: true
+canonical_url: https://yuri010.github.io/posts/first
+---
+
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
