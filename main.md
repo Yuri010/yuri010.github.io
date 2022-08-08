@@ -6,7 +6,7 @@ hero_height: is-large
 hero_link: /about
 hero_link_text: About Me
 show_sidebar: false
-callouts: example_callouts
+callouts: callouts
 ---
 
 ## Pages
