@@ -1,5 +1,13 @@
-<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
-ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
+---
+layout: page
+title: Example Landing Page
+subtitle: This is an example landing page with callouts
+hero_height: is-large
+hero_link: /page-1/
+hero_link_text: Example Call To Action
+show_sidebar: false
+callouts: example_callouts
+---
 
 # About this site
 Hey! What are you doing here? Looking for info about me? Then you're in the right place.\
@@ -14,6 +22,5 @@ You can look below on what pages there are to explore on this site.
 [Devices I own](https://yuri010.github.io/devices)
 
 
-
-### ­
-<sub>*By the way, I literally just made this in markdown, so it might not be so high quality, or look so fancy, but it functions :)*</sub>
+<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
+ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
