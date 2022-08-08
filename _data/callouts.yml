@@ -1,0 +1,26 @@
+
+style: is-light
+height: is-medium
+items:
+  - title: About Me
+    subtitle: 
+    icon: fa-space-shuttle
+    description: >
+      Yeah, who am I really?
+    call_to_action_name: About Me
+    call_to_action_link: /about
+  - title: Repositories
+    subtitle: 
+    icon: fa-github
+    icon_brand: true
+    description: >
+      Want to know something about my repositories? Over here!
+    call_to_action_name: Repositories
+    call_to_action_link: /repos
+  - title: Devices
+    subtitle: 
+    icon: fa-wrench
+    description: >
+      Have a look at the devices I use!
+    call_to_action_name: Devices
+    call_to_action_link: https://yuri010.github.io/devices
