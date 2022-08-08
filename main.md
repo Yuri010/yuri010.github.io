@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: Yuri010.github.io
+subtitle: Hey! What are you doing here? Looking for info about me? Then you're in the right place. You can look below on what pages there are to explore on this site.
 hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Example Call To Action
+hero_link: /about
+hero_link_text: About me
 show_sidebar: false
 callouts: example_callouts
 ---
-
-# About this site
-Hey! What are you doing here? Looking for info about me? Then you're in the right place.\
-You can look below on what pages there are to explore on this site.
 
 ## Pages
 [Index](https://yuri010.github.io/main) (You are here)\
