@@ -1,8 +1,10 @@
+---
+title: Repositories
+subtitle: What do you want to know about them :?
+---
+
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
-
-# Repositories
-Below you can roam around and find more info about some repositories of mine :)
 
 ### [SubDima](https://yuri010.github.io/repositories/subdima)
 <sup>A simple, yet avanced piece of harmless malware (yeah that exists ig)</sup>
