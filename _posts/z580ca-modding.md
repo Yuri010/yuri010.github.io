@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Asus Zenpad S 8.0 (Z580CA) Unlocking and Rooting"
-date:   2022-06-28
+title: "Asus Zenpad S 8.0 (Z580CA) Unlocking and Rooting"
+date: 2022-06-28
 categories: android
 description: "Post about the rollercoaster I went through to find a way to unlock it"
-image: 'https://opengraph.githubassets.com/21d531c46f0b698342b925382ee830ea347d3964bc259f523a41185f2f3b3aa7/Yuri010/yuri010.github.io'
 published: true
-canonical_url: https://yuri010.github.io/posts/z580ca-modding
+canonical_url: https://yuri010.github.io/android/2022/06/28/z580ca-modding.html
 ---
 
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/

@@ -1,3 +1,11 @@
+lang: en
+title: Yuri010
+tagline: Yuri010  
+description: >
+  The Github Pages site of Yuri010
+url: "https://yuri010.github.io/"
+permalink: pretty
+
 remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
