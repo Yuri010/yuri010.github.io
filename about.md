@@ -1,7 +1,10 @@
+---
+title: About Me
+---
+
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
-# About Me
 Well, where should I begin?
 
 I'm Yuri[^1], I spend a lot of time just experimenting with for example virtualization[^2], servers, that kind of stuff (IT / ICT).
