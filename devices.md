@@ -1,8 +1,10 @@
+---
+title: Devices
+subtitle: On this page, I will just have a list with what devices I have and use and their specs :)
+---
+
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
-
-# Devices
-On this page, I will just have a list with what devices I have and use and their specs :)[^1]
 
 ## Computers
 ### Daily Driver (Laptop)
@@ -71,6 +73,3 @@ I have unlocked and rooted this device using [this](https://forum.xda-developers
   - PowerVR G6430
   - 2GB RAM
   - 32GB Storage
-
-### ­
-[^1]: Last updated: 28/06/2022
