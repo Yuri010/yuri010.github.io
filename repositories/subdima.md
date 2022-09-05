@@ -1,6 +1,7 @@
 ---
 title: SubDima
 subtitle: "A harmless trojan..."
+hero_image: /src/malware.jpg
 ---
 
 <!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
