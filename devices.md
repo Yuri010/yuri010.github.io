@@ -16,6 +16,7 @@ I use this one for games and other stuff that doesn't really run on my other dev
  - NVIDIA GeForce GTX 1650 Ti (Mobile)
  - Samsung DDR4-3200 (1x8GB)
  - SK_Hynix NVME M.2 (512GB)
+ - Samsung 860 Evo SATA M.2 (In a caddy in the 2.5" bay) (250GB)
  - Windows 10 Home (Because- why Windows 11?)
 
 ### Old Daily Driver (Laptop)
@@ -27,7 +28,7 @@ I use this one for just screwing around, and stuff I don't want to have on my ma
  - Intel HD Graphics 3000 (Mobile)
  - Mixed DDR3-1333 (2x4GB) (1 DIMM Elpida and 1 DIMM Hynix)
  - Kingston A400 SATA SSD (240GB)
- - Windows 8.1 Pro *and* EndeavourOS (Bspwm) (Dual Boot)
+ - OS may vary.. But usually either Windows 8.1 and up or an RPM based Linux distro
 
 ### Old Old Daily Driver (Desktop)
 This is the computer I've had before my old laptop. And what should I say...\
@@ -38,21 +39,24 @@ Just a good machine :)
  - Intel Core 2 Duo E8500 (2c/2t) @ 3.16GHz
  - ASUS GeForce GT 730 (Silent (Passive, it has no fan lol) and low profile, 2GB VRAM)
  - Mixed DDR3-idk (It is 8GB at least)
- - Storage:
+ - Storage (RAID-01):
     - Hitachi Travelstar (250GB 2.5" Boot Drive)
-    - Hitachi Deskstar (250GB RAID 0 - Member 1)
-    - Hitachi Deskstar (320GB RAID 0 - Member 2)
+    - Hitachi Deskstar (250GB Hardware RAID 0 - Member 1)
+    - Hitachi Deskstar (320GB Hardware RAID 0 - Member 2)
+    - Seagate Barracuda (500GB as software mirror of the above RAID 0) 
  - Windows 7 Professional
 
 ## Mobile Devices
 
 ### Daily Driver (Phone)
-This has been my phone for the last couple of years, it is also my phone lol.\
-It is a Nokia 6.1 (2018, codename PL2), it is an absolute brick and the software is generally *not too pleasant* (to keep things nice).
+This has been my phone for the last couple of years, it is also my first ever smartphone lol.\
+It is a Nokia 6.1 (2018, model TA-1043), it is an absolute brick and the stock software is generally *not too pleasant* (to keep things nice).
 
 **OS**: It came with Android 8 stock, which got 2 major updates to Android 10 and then left support.\
 I had an Unofficial Pixel Experience ROM on here until I bricked it using Magisk, after which I flashed stock again and decided to not do that dumb stuff on my main again.\
 (It is now running the stock Android 10 again)
+
+Edit numero 3: I am now running LineageOS 20 and getting weekly updates.. Works Great!)
 
 **Specs**:
  - Qualcomm Snapdragon 630
@@ -61,7 +65,7 @@ I had an Unofficial Pixel Experience ROM on here until I bricked it using Magisk
  - 32GB Storage (eMMC 5.1)
 
 ### Tablet
-This is my first mobile device and Android device, like- ever.\
+This is my first mobile and Android device, like- ever.\
 It is an Asus Zenpad S 8.0 (Z580CA / P01MA), it is an absolute beast in terms of multimedia (Display quality and audio), and can also run games pretty decent (Think of PUBG Mobile at 60fps locked on high settings).
 
 **OS**: It came with Android 5 stock, which got 1 major update to Android 6.0.1 and then left support.\
