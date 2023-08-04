@@ -14,7 +14,7 @@ I use this one for games and other stuff that doesn't really run on my other dev
 **Specs**:
  - AMD Ryzen 5 4600H (6c/12t) @ 4GHz
  - NVIDIA GeForce GTX 1650 Ti (Mobile)
- - Samsung DDR4-3200 (1x8GB)
+ - Mixed DDR4-3200 (2x8GB) (1 DIMM Samsung and 1 DIMM Crucial)
  - SK_Hynix NVME M.2 (512GB)
  - Samsung 860 Evo SATA M.2 (In a caddy in the 2.5" bay) (250GB)
  - Windows 10 Home (Because- why Windows 11?)
@@ -54,7 +54,7 @@ It is a Nokia 6.1 (2018, model TA-1043), it is an absolute brick and the stock s
 
 **OS**: It came with Android 8 stock, which got 2 major updates to Android 10 and then left support.\
 I had an Unofficial Pixel Experience ROM on here until I bricked it using Magisk, after which I flashed stock again and decided to not do that dumb stuff on my main again.\
-(It is now running the stock Android 10 again)
+~~(It is now running the stock Android 10 again)~~
 
 Edit numero 3: I am now running LineageOS 20 and getting weekly updates.. Works Great!)
 
