@@ -8,6 +8,9 @@ show_sidebar: false
 callouts: callouts
 ---
 
+<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
+ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
+
 ## Pages
 [Index](https://yuri010.github.io/main) (You are here)\
 [About Me](https://yuri010.github.io/about)\
@@ -15,7 +18,3 @@ callouts: callouts
 [Blog- thingy](https://yuri010.github.io/blog/)
 
 [Devices I own](https://yuri010.github.io/devices)
-
-
-<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
-ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
