@@ -54,10 +54,8 @@ This has been my phone for the last couple of years, it is also my first ever sm
 It is a Nokia 6.1 (2018, model TA-1043), it is an absolute brick and the stock software is generally *not too pleasant* (to keep things nice).
 
 **OS**: It came with Android 8 stock, which got 2 major updates to Android 10 and then left support.\
-I had an Unofficial Pixel Experience ROM on here until I bricked it using Magisk, after which I flashed stock again and decided to not do that dumb stuff on my main again.\
-~~(It is now running the stock Android 10 again)~~
-
-Edit numero 3: I am now running LineageOS 20 and getting weekly updates.. Works Great!)
+After some hopping around between Lineage and some unofficial ROMs I found that [this](https://xdaforums.com/t/rom-11-pl2-pixelexperience-aosp.4306647/) (albeit unofficial) Pixel Experience ROM works best. It's just overall stable, fluent and the battery life is better than stock, so thumbs up for that.
+The only downsides about this is that it is still a custom ROM, so there is no support if it stops working all of a sudden, and NFC is broken, not that I can use Google Pay on an unlocked phone anyways :P
 
 **Specs**:
  - Qualcomm Snapdragon 630
