@@ -7,13 +7,13 @@ subtitle: What do you want to know about them :?
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
 ### [Minecraft Manager](https://yuri010.github.io/repositories/minecraft-manager)
-<sup>A Discord bot to manage your Minecraft server without even leaving a channel</sup>
+<sup>A Discord bot to manage your Minecraft server from within your Discord server</sup>
 
 ### [Word Warden](https://yuri010.github.io/repositories/wordwarden)
 <sup>A Warden of Words to spice up your conversations in Discord!</sup>
 
 ### [SubDima](https://yuri010.github.io/repositories/subdima)
-<sup>A simple, yet avanced piece of harmless malware (yeah that exists ig)</sup>
+<sup>A simple, yet overengineered piece of harmless malware (yeah that exists ig)</sup>
 
 ### [Youtube-DL Helper](https://yuri010.github.io/repositories/ytdl-helper)
 <sup>Need help downloading stuff off of Youtube, but without sketchy online tools?</sup>
