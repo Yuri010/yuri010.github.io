@@ -7,7 +7,7 @@ subtitle: On this page, I will just have a list with what devices I have and use
 ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
 
 ## Computers
-Everything is interconnected using a TP-Link TL-SG1008 rackmount switch (8x 1Gbit full-duplex) for my little "local network".\
+Everything is interconnected using a TP-Link TL-SG1008 switch (8x 1Gbit full-duplex) for my little "local network".\
 My old HP 6560b is the DHCP server for this network as the switch is unmanaged, and 3 computers trying to negotiate who is who is a no no
 
 ### Daily Driver (Laptop)
@@ -45,6 +45,7 @@ The main use for it right now is as a virtualisation and file server.
  - ZFS RAID-0:
     - Hitachi Deskstar (250GB Hardware RAID 0 - Member 1)
     - Hitachi Deskstar (320GB Hardware RAID 0 - Member 2)
+ - Seagate Baracuda (500GB Manual backup of the ZFS)
  - Proxmox VE 8
 
 ## Mobile Devices

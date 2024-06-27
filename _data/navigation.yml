@@ -1,15 +1,22 @@
-- name: About
-  link: /about
 - name: Repositories
   link: /repos
   dropdown:
+    - name: Minecraft Manager
+      link: /repositories/minecraft-manager
+    - name: WordWarden
+      link: /repositories/wordwarden
     - name: SubDima
       link: /repositories/subdima
-    - name: CIR-License
-      link: /repositories/cir-license
+    - name: Youtube-DL Helper
+      link: /repositories/ytdl-helper
     - name: Coding-Snippets
       link: /repositories/coding-snippets
-- name: Blog
-  link: /blog/
+    - name: CIR-License
+      link: /repositories/cir-license
 - name: Devices
   link: /devices
+- name: About
+  link: /about
+- name: Blog
+  link: /blog/
+  
