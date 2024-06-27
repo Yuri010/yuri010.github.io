@@ -13,10 +13,6 @@ ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/Licens
 
 # Android Modding
 
-### DISCLAIMER: I AM NOT RESPONSIBLE FOR BRICKED DEVICES OR ANYTHING LIKE THAT
-### WITH GREAT POWER COMES GREAT RESPONSIBILITY, PROCEED AT YOUR OWN RISK
-### UNLOCKING YOUR DEVICE COMPLETELY FACTORY RESETS IT, AND WIPES ANY DATA TO DIGITAL HEAVEN
-
 Modding Android, it may be the most normal thing for superusers, others have never heard of it. This post will explain a bunch of the basic things.
 
 ### 1. Terminology
