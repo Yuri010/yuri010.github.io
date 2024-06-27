@@ -15,6 +15,4 @@ ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/Licens
 [Index](https://yuri010.github.io/main) (You are here)\
 [About Me](https://yuri010.github.io/about)\
 [Info about my repositories](https://yuri010.github.io/repos)\
-[Blog- thingy](https://yuri010.github.io/blog/)
-
 [Devices I own](https://yuri010.github.io/devices)
