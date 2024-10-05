@@ -4,9 +4,6 @@ subtitle: "A harmless trojan..."
 hero_image: /repositories/src/malware.jpg
 ---
 
-<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
-ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
-
 # [SubDima](https://github.com/Yuri010/SubDima)
 SubDima is a harmless(-ish) trojan I made.\
 I sadly lost the source code of SubDima 1.0, so this is the 2.0 based around the same idea but even better :)
@@ -16,7 +13,7 @@ Well, when I made it I was just thinking of random names. And as it doesn't dist
 But that can't be a name for a piece of malware! So piece I made it into an anagram: "subdural intimation" and shortened that to "SubDima".\
 Tada! You know have a trojan.
 
-***even though its name is a shortened anagram of "manual distribution", DO NOT DO THIS PLEASE, I AM ALSO NOT RESPONSIBLE FOR ANY DAMAGE IT DOES ([License](https://github.com/Yuri010/CIR-License/blob/main/License.md))***
+***even though its name is a shortened anagram of "manual distribution", DO NOT DO THIS PLEASE, I AM ALSO NOT RESPONSIBLE FOR ANY DAMAGE IT DOES***
 
 ### About the "trojan"
 It copies itself to the temp folder of the user (%temp% or C:\Users\<user>\Appdata\Local\temp), then runs from there.\

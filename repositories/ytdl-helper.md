@@ -3,9 +3,6 @@ title: Youtube-DL Helper
 subtitle: "Is this copyrighted?"
 ---
 
-<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
-ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
-
 # [Youtube-DL Helper](https://github.com/Yuri010/Youtube-DL-Helper)
 [Youtube-DL](https://github.com/yt-dlp/yt-dlp) is a neat little program that can help you download content off of Youtube without having to go through sketchy websites with malicious popups and all that. But it is a CLI tool, meaning not many people will find it easy to use.
 
