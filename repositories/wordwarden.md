@@ -3,9 +3,6 @@ title: WordWarden
 subtitle: Why say a word if you can own it?
 ---
 
-<!-- THIS SITE IS LICENSED UNDER THE CIR-LICENSE. FOR MORE INFO VISIT https://github.com/Yuri010/CIR-License/
-ORIGINAL CAN BE FOUND AT https://github.com/Yuri010/CIR-License/blob/main/License.md -->
-
 # [WordWarden](https://github.com/Yuri010/WordWarden)
 Wordwarden is a Discord bot that works as promised: It is the Warden of Words.
 
